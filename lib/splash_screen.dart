@@ -4,7 +4,7 @@ import 'package:flutter_lottie/lottie_page.dart';
 
 
 import 'lottie_page.dart';
-
+//...
 
 class Splash extends StatefulWidget {
   @override
