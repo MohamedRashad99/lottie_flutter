@@ -1,5 +1,12 @@
 # flutter_lottie
-https://user-images.githubusercontent.com/42122633/110385358-8669ce80-8067-11eb-9e75-a9526802b4f7.mp4
+
+
+-------------  VIDEO LINK   ------------------
+
+https://user-images.githubusercontent.com/42122633/110415941-8388d100-809b-11eb-8c9d-2d6c24a18954.mp4
+
+
+
 
 
 A new Flutter application.
